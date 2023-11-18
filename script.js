@@ -1,14 +1,14 @@
 const array=[
     {
         id: 1,
-        image: '/images/download (3).jpeg',
+        image: 'images/download (3).jpeg',
         name: 'Photo Frame',
         price: 250,
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos harum aspernatur iure asperiores impedit velit iusto, iste fugit, non qui, praesentium officiis consequuntur. Reprehenderit itaque velit aspernatur veritatis laborum adipisci tempore perspiciatis, nulla distinctio ipsam ut et aliquam nobis voluptatem enim? Cum, esse beatae! Asperiores dolorum esse amet facere doloremque!',
     },
     {
         id: 1,
-        image: '/images/downloadsdfs.jpeg',
+        image: 'images/downloadsdfs.jpeg',
         name: 'Keyboard',
         price: 2500,
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos harum aspernatur iure asperiores impedit velit iusto, iste fugit, non qui, praesentium officiis consequuntur. Reprehenderit itaque velit aspernatur veritatis laborum adipisci tempore perspiciatis, nulla distinctio ipsam ut et aliquam nobis voluptatem enim? Cum, esse beatae! Asperiores dolorum esse amet facere doloremque!',
